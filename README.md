@@ -27,8 +27,8 @@
   <img src="https://i.imgur.com/lB5pvj4.png"  width="500px">
 </p>
 
-### Movie 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xfmC_sUt6lk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Video 
+#### [WATCH HERE](https://www.youtube.com/watch?v=xfmC_sUt6lk&feature=youtu.be)
 
 ## Status of project: 
 ```diff 
