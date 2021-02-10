@@ -19,7 +19,7 @@
 
 ### Car
 <p align="left"> 
-  <img src="https://i.imgur.com/DjsRtEZ.png"  width="600px">
+  <img src="https://i.imgur.com/DjsRtEZ.png"  width="500px">
 </p>
 
 ### All Parts
