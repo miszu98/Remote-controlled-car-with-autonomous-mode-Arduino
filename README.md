@@ -15,9 +15,6 @@
 11. Basket for 2 batteries type 18650
 12. Servo SG90
 
-## Launch
-
-
 ## Images 
 
 ### Car
