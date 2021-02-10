@@ -28,8 +28,7 @@
 </p>
 
 ### Movie 
-![caption](https://www.youtube.com/watch?v=xfmC_sUt6lk&feature=youtu.be)
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=xfmC_sUt6lk&feature=youtu.be)
 
 ## Status of project: 
 ```diff 
